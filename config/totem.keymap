@@ -15,10 +15,10 @@
 #define HYPER &kp LS(LC(LA(LGUI)))
 
 &mt {
-  quick-tap-ms = <250>;
+  quick-tap-ms = <200>;
   global-quick-tap;
   flavor = "tap-preferred";
-  tapping-term-ms = <270>;
+  tapping-term-ms = <220>;
 };
 
 / {
